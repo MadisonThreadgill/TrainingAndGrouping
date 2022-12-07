@@ -1,2 +1,2 @@
-# TrainingAndGrouping
-Optimal Layer Grouping Strategies on Distributed Edge Machine Learning During Training and Inference
+# Optimal Layer Grouping Strategies on Distributed Edge Machine Learning During Training and Inference
+
